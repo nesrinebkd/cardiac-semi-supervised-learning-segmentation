@@ -74,7 +74,7 @@ All methods trained for 10,000 iterations, batch size 8 (4 labeled per batch),
 
 ## Report
 
-The full written analysis is available in [`report.pdf`](./report.pdf).
+The full written analysis is available in [`report.pdf`](./Article.pdf).
 
 ---
 

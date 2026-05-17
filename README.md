@@ -77,7 +77,12 @@ All methods trained for 10,000 iterations, batch size 8 (4 labeled per batch),
 The full written analysis is available in [`report.pdf`](./Article.pdf).
 
 ---
+## Predictions
+Pre-computed segmentation outputs for all methods are available — 
+see [PREDICTIONS.md](./PREDICTIONS.md) for download links and 
+visualization instructions.
 
+---
 ## Skills demonstrated
 
 `PyTorch` · `Medical image segmentation` · `Semi-supervised learning` · 
